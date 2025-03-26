@@ -1,0 +1,15 @@
+.container {
+    padding: 20px;
+    background-color: brown;
+}
+
+.title {
+    font-size:2rem;
+    color: black;
+}
+
+.content {
+    font-size: 1.2 rem;
+    line-height: 1.6;
+    margin-top: 10px;
+}
